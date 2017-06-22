@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 int main(){
 
 	int last_number, i, j, total, n_not_allowed, string_n_not_allowed;
